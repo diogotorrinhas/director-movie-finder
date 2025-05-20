@@ -1,6 +1,6 @@
 # 🎬 Director Movie Finder
 
-A simple Svelte app that allows users to search for directors, view their movies, and see detailed movie information including genres, synopsis, and an embedded player using the TMDB API.
+A simple Svelte app to search directors and view their movies with detailed info and playback using TMDB API
 
 ---
 
